@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RealtyFromDevelopers</string>
+    <string name="imgViewBackground_desc">Фон</string>
+    <string name="imgViewLogo_Desk">Логотип</string>
+    <string name="text_view_title">Полная база квартир от застройщиков</string>
+    <string name="text_view_check1">За 1 минуту вы получите доступ к самым выгодным предложениям!</string>
+    <string name="text_view_check2">13 450 квартир в продаже от проверенных застройщиков, без агентств</string>
+    <string name="text_view_check3">Свежие скидки и акции от застройщиков</string>
+    <string name="Check1_Description">Разделитель1</string>
+    <string name="Check2_Description">Разделитель2</string>
+    <string name="Check3_Description">Разделитель3</string>
+    <string name="button_find">Начать поиск</string>
+    <string name="text_view_rooms_title">Сколько комнат должно быть в квартире?</string>
+    <string name="check_box_rooms1">Студия</string>
+    <string name="check_box_rooms2">1-комнатная</string>
+    <string name="check_box_rooms3">2-комнатная</string>
+    <string name="check_box_rooms4">3-комнатная</string>
+    <string name="check_box_rooms5">4+ комнатная</string>
+    <string name="button_next">Далее</string>
+</resources>
